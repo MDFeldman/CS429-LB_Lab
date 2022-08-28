@@ -1,0 +1,28 @@
+/u/mackx/cs429/:
+total 4
+drwx------ 7 mackx under 4096 Aug 28 18:52 projects
+
+/u/mackx/cs429/projects:
+total 20
+drwx------ 2 mackx under 4096 Aug 28 18:52 proj5
+drwx------ 2 mackx under 4096 Aug 28 18:51 proj4
+drwx------ 2 mackx under 4096 Aug 28 18:51 proj3
+drwx------ 2 mackx under 4096 Aug 28 18:51 proj2
+drwx------ 3 mackx under 4096 Aug 28 18:57 proj1
+
+/u/mackx/cs429/projects/proj5:
+total 0
+
+/u/mackx/cs429/projects/proj4:
+total 0
+
+/u/mackx/cs429/projects/proj3:
+total 0
+
+/u/mackx/cs429/projects/proj2:
+total 0
+
+/u/mackx/cs429/projects/proj1:
+total 1988
+-rw------- 1 mackx under       0 Aug 28 18:57 partA.txt
+-rw------- 1 mackx under 2025409 Aug 28 18:55 linux_bootcamp.tar
