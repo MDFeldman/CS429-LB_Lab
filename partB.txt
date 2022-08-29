@@ -1,0 +1,2 @@
+grep -o "INFO" linux_bootcamp_handout/log.txt | wc -l
+147
